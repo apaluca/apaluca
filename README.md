@@ -1,11 +1,11 @@
 # Hi, I'm Luca-Teodor Apahidean! 👋
 
-I am a results-driven Software Engineering student at the [Military Technical Academy "Ferdinand I"](https://mta.ro/), passionate about systems programming, network communications, and secure application development. I enjoy building robust, high-performance applications and exploring the intersection of technology, security, and performance.
+I am a Software Engineering student at the [Military Technical Academy "Ferdinand I"](https://mta.ro/), passionate about systems programming, network communications, and secure application development. I enjoy building robust, high-performance applications and exploring the intersection of technology, security, and performance.
 
 ## 🚀 About Me
 
 - 🎓 Currently pursuing my Bachelor's degree and Military Brevet at the Military Technical Academy "Ferdinand I" in Bucharest, Romania.
-- 🛡️ Focused on secure application development and cryptographic systems.
+- 🛡️ Focused on secure application development.
 - 🖥️ Strong foundations in systems programming, computer networks, and cloud services.
 - 🏆 Experienced with both high-level and low-level programming languages and modern tech stacks.
 - 💡 Driven by curiosity and a desire to continuously learn and improve.
