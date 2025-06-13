@@ -22,7 +22,7 @@ I am a results-driven Software Engineering student at the [Military Technical Ac
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,cpp,js,html,css,sql,docker,kubernetes,cloud,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,cpp,js,html,css,mongodb,docker,kubernetes,azure,linux)](https://skillicons.dev)
 
 - **Languages**: C, C++, C#, Java, Python, JavaScript, SQL, NoSQL
 - **Tech**: Docker, Kubernetes, Cloud Services, Web Programming, Operating Systems
