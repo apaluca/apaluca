@@ -2,8 +2,6 @@
 
 I am a results-driven Software Engineering student at the [Military Technical Academy "Ferdinand I"](https://mta.ro/), passionate about systems programming, network communications, and secure application development. I enjoy building robust, high-performance applications and exploring the intersection of technology, security, and performance.
 
-![apaluca's Stats](https://github-readme-stats.vercel.app/api?username=apaluca&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🎓 Currently pursuing my Bachelor's degree and Military Brevet at the Military Technical Academy "Ferdinand I" in Bucharest, Romania.
